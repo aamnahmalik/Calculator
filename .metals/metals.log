@@ -1324,3 +1324,7 @@ Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_
 	at java.lang.Thread.run(Thread.java:833)
 
 2023.02.07 18:48:37 WARN  no build target for: /Users/aamnah/Documents/CS/CSC109/Calculator/Calculator.java
+2023.02.07 18:55:01 WARN  no build target for: /Users/aamnah/Documents/CS/CSC109/Calculator/Calculator.java
+2023.02.07 18:55:18 WARN  no build target for: /Users/aamnah/Documents/CS/CSC109/Calculator/Calculator.java
+Feb 07, 2023 6:55:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2096

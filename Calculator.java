@@ -13,10 +13,10 @@ public class Calculator
     public static void main(String[] args)
     {
         //ask for two numbers
-        System.out.println("Enter the first integer:");
-        int num1 = input.nextInt();
-        System.out.println("Enter the second integer:");
-        int num2 = input.nextInt();
+        System.out.println("Enter the first number:");
+        float num1 = input.nextFloat();
+        System.out.println("Enter the second number:");
+        float num2 = input.nextFloat();
 
         //ask user if they want to add or subtract
         System.out.println("Enter the number corresponding to the operation you would like to perform: ");
